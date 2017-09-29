@@ -1,0 +1,9 @@
+[submodule "basic-user-client"]
+	path = basic-user-client
+	url = https://github.com/oaestay/basic-user-client.git
+[submodule "basic-user-first-web-service"]
+	path = basic-user-first-web-service
+	url = https://github.com/oaestay/basic-user-first-web-service.git
+[submodule "basic-user-second-web-service"]
+	path = basic-user-second-web-service
+	url = https://github.com/oaestay/basic-user-second-web-service.git
