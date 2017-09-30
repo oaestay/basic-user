@@ -3,6 +3,7 @@
 - [Introduction](#introduction)
 - [Setup](#setup)
 - [Test APIs](#test-apis)
+- [Known Limitations](#known-limitations)
 
 ## Introduction
 
@@ -132,3 +133,9 @@ Then, you should be able to verify the user:
 ```
 
 There's also automated test in the private API, using RSpect and FactoryGirl.
+
+## Known Limitations
+
+- I wasn't able to use Sendgrid, so I used a simple Gmail mailer.
+- There's no authentication in neither client (Sign in client should store the user session, and should've implemented sessions with JWT in the admin client).
+- Almost no CSS.
