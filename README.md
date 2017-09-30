@@ -1,8 +1,8 @@
 # Basic User Application
 
-- [Introduction](#Introduction)
-- [Setup](#Setup)
-- [Test APIs](#Test-APIs)
+- [Introduction](#introduction)
+- [Setup](#setup)
+- [Test APIs](#test-apis)
 
 ## Introduction
 
