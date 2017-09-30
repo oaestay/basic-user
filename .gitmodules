@@ -7,3 +7,6 @@
 [submodule "basic-user-second-web-service"]
 	path = basic-user-second-web-service
 	url = https://github.com/oaestay/basic-user-second-web-service.git
+[submodule "basic-user-admin"]
+	path = basic-user-admin
+	url = https://github.com/oaestay/basic-user-admin.git
